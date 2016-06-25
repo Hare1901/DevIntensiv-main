@@ -1,0 +1,29 @@
+<resources>
+    <!--vertical_space-->
+    <dimen name = "between_areas">8dp</dimen>
+    <dimen name = "status_bar">24dp</dimen>
+    <dimen name = "toolbar">64dp</dimen>
+
+    <dimen name = "subtitle">48dp</dimen>
+    <dimen name = "title_small">72dp</dimen>
+    <dimen name = "title">80dp</dimen>
+    <dimen name = "list_item_small">56dp</dimen>
+    <dimen name = "list_item_medium">64dp</dimen>
+    <dimen name = "list_item_big">72dp</dimen>
+
+    <!--keylines-->
+
+
+    <dimen name ="indentations_small">16dp</dimen>
+    <dimen name ="indentations_medium">24dp</dimen>
+    <dimen name ="spacing_medium_32">32dp</dimen>
+    <dimen name ="work_space32">32dp </dimen>>
+    <dimen name ="work_space56">56dp </dimen>>
+    <dimen name ="work_space72">72dp </dimen>>
+    <dimen name ="work_space80">80dp </dimen>>
+    <dimen name ="work_space96">96dp </dimen>>
+    <dimen name ="work_space104">104dp </dimen>>
+
+
+
+</resources>
